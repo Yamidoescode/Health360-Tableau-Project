@@ -31,7 +31,7 @@ The dashboards are named after the three users (Dr. Michael Carter, Emily Rodrig
 
 
 ## Demo
-[paste your tested demo link here]
+https://drive.google.com/file/d/1G41eOyou8nlXZWLAa55aBRLSXcBEraFb/view?usp=drive_link
 
 ## Author
 [yamini sharma], [medicaps university]
