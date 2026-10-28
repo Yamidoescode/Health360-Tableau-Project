@@ -27,7 +27,6 @@ The dashboards are named after the three users (Dr. Michael Carter, Emily Rodrig
 
 ## Files
 - `skillwalletpresentation25.twbx`: Tableau workbook
-- `demo-link.txt`: demo video link
 - `documentation.pdf`: https://github.com/user-attachments/files/34082133/documentation.pdf
 
 
